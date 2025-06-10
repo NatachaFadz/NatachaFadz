@@ -27,5 +27,4 @@ Python allows me to **automate data processing, perform statistical analysis, an
 
 ## 📫 Connect with Me
 Feel free to reach out or explore my projects!  
-🔗 [GitHub Profile](https://github.com/yourusername)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn](http://www.linkedin.com/in/natacha-fadare)
