@@ -1,30 +1,25 @@
+
 # 👋 Hi, I'm Natacha!
 
-## 🚀 About Me
-I'm passionate about **data analysis and visualization**, leveraging tools like Excel, Tableau, Power BI, SQL, and Python to uncover actionable insights. My expertise spans across **data manipulation, trend analysis, and interactive dashboards**.
+##  About Me
+I'm passionate about **data analysis and visualization**, leveraging tools like **Excel**, **Tableau**, **Power BI**, **SQL**, and **Python** to uncover actionable insights.  
+I have hands-on experience with **data manipulation**, **trend analysis**, and **interactive dashboards**, and I'm continuously learning and improving in these areas.
+
+---
 
 ## 🛠️ Skills & Tools
 
-### 📊 Excel  
-![Excel Logo](https://icons8.com/icons/set/excel-python)  
-Excel is my go-to tool for **data manipulation, pivot tables, and advanced functions**. I use it to clean, analyze, and visualize data efficiently.
+| Tool       | Description |
+|------------|-------------|
+| <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30"/> **Excel** | My go-to for **data manipulation, pivot tables, and advanced functions**. I use it to clean, analyze, and visualize data efficiently. |
+| <img src="https://img.icons8.com/color/48/tableau-software.png" width="30"/> **Tableau** | I create **interactive dashboards** and compelling visualizations that make complex data easy to understand. |
+| <img src="https://img.icons8.com/color/48/power-bi.png" width="30"/> **Power BI** | I use Power BI to **connect, transform, and visualize data** from multiple sources for dynamic business intelligence. |
+| <img src="https://img.icons8.com/ios-filled/50/sql.png" width="30"/> **SQL** | Essential for **querying and analyzing datasets**, using joins, subqueries, and window functions to extract insights. |
+| <img src="https://img.icons8.com/color/48/python--v1.png" width="30"/> **Python** | I automate data processing, perform statistical analysis, and build predictive models using **Pandas, NumPy, and Matplotlib**. |
 
-### 📈 Tableau  
-![Tableau Logo](https://www.shutterstock.com/search/data-analysis-power-bi-logos)  
-Tableau enables me to create **interactive dashboards** and compelling data visualizations, making complex datasets easy to understand.
-
-### 📊 Power BI  
-![Power BI Logo](https://www.shutterstock.com/search/data-analysis-power-bi-logos)  
-Power BI helps me **connect, transform, and visualize data** from multiple sources, providing dynamic reports for business intelligence.
-
-### 🗄️ SQL  
-![SQL Logo](https://icons8.com/icons/set/excel-python)  
-SQL is essential for **querying and analyzing datasets**, using techniques like joins, subqueries, and window functions to extract meaningful insights.
-
-### 🐍 Python  
-![Python Logo](https://icons8.com/icons/set/excel-python)  
-Python allows me to **automate data processing, perform statistical analysis, and build predictive models** using libraries like Pandas, NumPy, and Matplotlib.
+---
 
 ## 📫 Connect with Me
-Feel free to reach out or explore my projects!  
-🔗 [LinkedIn](http://www.linkedin.com/in/natacha-fadare)
+
+- 🔗 [LinkedIn](http://www.linkedin.com/in/natacha-fadare)
+- 💼 Always open to collaboration and new opportunities in data!
